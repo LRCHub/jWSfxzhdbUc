@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きるゆーすたー",
+  "base_artist": "つきみ",
+  "createdAt": "2026-03-19T04:43:47.034578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きるゆーすたー",
+      "artist": "つきみ",
+      "has_synced": false,
+      "path": "select/pl_01_きるゆーすたー_つきみ.txt"
+    }
+  ]
+}
